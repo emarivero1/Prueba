@@ -9,3 +9,5 @@ bananas
 naranjas
 cafe
 azucar
+manteca
+bolsas de basura
