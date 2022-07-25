@@ -11,3 +11,6 @@ cafe
 azucar
 manteca
 bolsas de basura
+naranja
+manzana
+banana
