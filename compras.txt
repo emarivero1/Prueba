@@ -4,3 +4,6 @@ pan
 aceite
 manzanas
 bananas
+naranjas
+cafe
+azucar
