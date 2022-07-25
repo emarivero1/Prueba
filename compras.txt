@@ -14,3 +14,5 @@ bolsas de basura
 naranja
 manzana
 banana
+te
+mostaza
