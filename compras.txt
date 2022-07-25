@@ -16,3 +16,5 @@ manzana
 banana
 te
 mostaza
+ciruela
+sal
