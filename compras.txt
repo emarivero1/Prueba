@@ -12,3 +12,5 @@ azucar
 naranja
 manzana
 banana
+ciruela
+sal
