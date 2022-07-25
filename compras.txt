@@ -9,3 +9,6 @@ bananas
 naranjas
 cafe
 azucar
+naranja
+manzana
+banana
